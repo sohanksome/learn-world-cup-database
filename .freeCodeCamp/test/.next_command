@@ -415,3 +415,4 @@ pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
 git remote -v
 git remote remove upstream
 echo "# worldcup-database" >> README.md
+git push -u origin main
